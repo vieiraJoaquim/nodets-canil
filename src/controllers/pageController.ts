@@ -18,6 +18,6 @@ export const cats = (req: Request, res: Response) => {
 
 // 2 - criar a  função para depois usar em rotas no index.ts.
 export const fishes = (req: Request, res: Response) => {
-
+    //Commments
 }
 
